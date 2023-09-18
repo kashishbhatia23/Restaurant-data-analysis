@@ -1,4 +1,4 @@
-# Dannys_Diner
+# Restaurant Data Analysis
 
 ## Introduction
 
